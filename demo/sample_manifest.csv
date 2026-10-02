@@ -1,0 +1,13 @@
+sample_id,tu,csv_file,include
+demo_01,0.0,demo_01.csv,True
+demo_02,0.18181818,demo_02.csv,True
+demo_03,0.36363636,demo_03.csv,True
+demo_04,0.54545455,demo_04.csv,True
+demo_05,0.72727273,demo_05.csv,True
+demo_06,0.90909091,demo_06.csv,True
+demo_07,1.09090909,demo_07.csv,True
+demo_08,1.27272727,demo_08.csv,True
+demo_09,1.45454545,demo_09.csv,True
+demo_10,1.63636364,demo_10.csv,True
+demo_11,1.81818182,demo_11.csv,True
+demo_12,2.0,demo_12.csv,True

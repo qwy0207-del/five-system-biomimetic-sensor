@@ -1,0 +1,4 @@
+sample_id,csv_file,status,reason
+demo_01,demo_01.csv,included,passed_manual_and_structural_checks
+demo_02,demo_02.csv,included,passed_manual_and_structural_checks
+demo_03,demo_03.csv,included,passed_manual_and_structural_checks
